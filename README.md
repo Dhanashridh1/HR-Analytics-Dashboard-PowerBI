@@ -56,3 +56,8 @@ Lowest: Marketing (Score 3)
 
 Top Trained Roles: Financial Analyst (103 hrs), Recruiter & Sales Exec (96 hrs each)
 
+<img width="2000" height="1156" alt="image" src="https://github.com/user-attachments/assets/aa5071d4-f95e-4b55-9dfc-96fc93cdc0bb" />
+<img width="2000" height="1156" alt="image" src="https://github.com/user-attachments/assets/9c51b6f6-4c90-43ce-9f33-a50cbb2c8ce7" />
+
+
+
